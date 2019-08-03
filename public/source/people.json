@@ -212,6 +212,13 @@
             "title": "Undergraduate Student",
             "avatarUrl": "../images/shiqi_mei.jpg",
             "email": "lolimay@lolimay.cn"
+        },
+        {
+            "name": "Yuan Gao",
+            "title": "Undergraduate Student",
+            "avatarUrl": "https://user-images.githubusercontent.com/32775192/62408603-eaabed00-b5fd-11e9-8978-4a9b1a9e42d1.png",
+            "email": "1003477623@qq.com"
         }
+                 
     ]
 }
